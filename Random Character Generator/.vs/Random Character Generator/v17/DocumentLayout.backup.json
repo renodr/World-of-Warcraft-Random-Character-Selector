@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "S:\\RandomCharacterSelector\\World-of-Warcraft-Random-Character-Selector\\Random Character Generator\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6CD84D7E-2D29-42D6-9671-1372C2383465}|Random Character Generator.csproj|s:\\randomcharacterselector\\world-of-warcraft-random-character-selector\\random character generator\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{6CD84D7E-2D29-42D6-9671-1372C2383465}|Random Character Generator.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{6CD84D7E-2D29-42D6-9671-1372C2383465}|Random Character Generator.csproj|S:\\RandomCharacterSelector\\World-of-Warcraft-Random-Character-Selector\\Random Character Generator\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CD84D7E-2D29-42D6-9671-1372C2383465}|Random Character Generator.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6CD84D7E-2D29-42D6-9671-1372C2383465}|Random Character Generator.csproj|s:\\randomcharacterselector\\world-of-warcraft-random-character-selector\\random character generator\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6CD84D7E-2D29-42D6-9671-1372C2383465}|Random Character Generator.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6CD84D7E-2D29-42D6-9671-1372C2383465}|Random Character Generator.csproj|s:\\randomcharacterselector\\world-of-warcraft-random-character-selector\\random character generator\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6CD84D7E-2D29-42D6-9671-1372C2383465}|Random Character Generator.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +18,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "S:\\RandomCharacterSelector\\World-of-Warcraft-Random-Character-Selector\\Random Character Generator\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
@@ -34,13 +34,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "S:\\RandomCharacterSelector\\World-of-Warcraft-Random-Character-Selector\\Random Character Generator\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
               "ToolTip": "S:\\RandomCharacterSelector\\World-of-Warcraft-Random-Character-Selector\\Random Character Generator\\MainWindow.xaml.cs",
               "RelativeToolTip": "MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-07T01:15:07.81Z",
               "EditorCaption": ""

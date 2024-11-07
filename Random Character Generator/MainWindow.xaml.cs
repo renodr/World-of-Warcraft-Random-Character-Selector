@@ -1,16 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
+﻿using System.Linq;
 using System.Windows;
-using System.Windows.Controls;
-using System.Windows.Data;
-using System.Windows.Documents;
-using System.Windows.Input;
-using System.Windows.Media;
-using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
-using System.Windows.Shapes;
+using System.IO;
 
 namespace Random_Character_Generator
 {
@@ -23,6 +13,18 @@ namespace Random_Character_Generator
         {
             InitializeComponent();
 
+            /// <summary>
+            /// Initialize the characters.txt file and read it into an array.
+            /// </summary>
+            try
+            {
+                string[] characters = File.ReadAllLines(".\\characters.txt").ToArray();
+            }
+            catch (FileNotFoundException)
+            {
+                MessageBox.Show("The characters.txt file does not exist", "Fatal Error", MessageBoxButton.OK);
+                this.Close();
+            }
         }
 
         private void Button_Click(object sender, RoutedEventArgs e)
